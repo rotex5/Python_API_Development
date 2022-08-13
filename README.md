@@ -1,1 +1,1 @@
-API Development Impelement using FastAPI.
+API Development Implemented using FastAPI.
